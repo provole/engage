@@ -1,0 +1,7 @@
+{
+    "animals": [
+        { "title": "Ninja UX Designer", "id": 1, "details": "lorem"},
+        { "title": "Ninja Doctor", "id": 1, "details": "lorem"},
+        { "title": "Ninja Coder", "id": 1, "details": "lorem"}
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "animals": [
+        { "title": "Fluffy",        "id": 1, "details": "Abyssinian cat", "age": "2 years",   "img": "cat_1.jpg", "location": "3.6km"},
+        { "title": "Big ears",      "id": 2, "details": "House cat",      "age": "1.5 years", "img": "cat_2.jpg", "location": "4.2km"},
+        { "title": "Puss in Boots", "id": 3, "details": "Spanish cat",    "age": "2 months",   "img": "pib.jpg",   "location": "5.8km"}
+    ]
+}
